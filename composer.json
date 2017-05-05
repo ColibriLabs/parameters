@@ -1,0 +1,22 @@
+{
+  "name": "dezbyte/colibri-parameters",
+  "description": "Colibri Parameters Reader 🍓",
+  "keywords": ["php parameters","parameters", "dezbyte"],
+  "authors": [
+    {
+      "name": "Ivan Gontarenko",
+      "email": "vania.gontarenko@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php": ">=5.5",
+    "symfony/yaml": "~3.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Colibri\\Parameters\\": "src/"
+    }
+  }
+}
