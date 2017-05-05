@@ -1,11 +1,11 @@
 {
-  "name": "dezbyte/colibri-parameters",
-  "description": "Colibri Parameters Reader 🍓",
-  "keywords": ["php parameters","parameters", "dezbyte"],
+  "name": "colibriphp/parameters",
+  "description": "Parameters Reader 🍓",
+  "keywords": ["php parameters","parameters"],
   "authors": [
     {
-      "name": "Ivan Gontarenko",
-      "email": "vania.gontarenko@gmail.com"
+      "name": "Ivan Hontarenko",
+      "email": "stewie.dev@gmail.com"
     }
   ],
   "license": "MIT",
